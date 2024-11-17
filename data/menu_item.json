@@ -1,0 +1,70 @@
+[
+  {
+    "description": "Espresso with steamed milk",
+    "ingredients": [
+      {
+        "ingredient_id": "espresso_shot",
+        "quantity": 1
+      },
+      {
+        "ingredient_id": "milk",
+        "quantity": 200
+      }
+    ],
+    "name": "Caffe Latte",
+    "price": 3.5,
+    "product_id": "latte"
+  },
+  {
+    "description": "Freshly baked muffin with blueberries",
+    "ingredients": [
+      {
+        "ingredient_id": "flour",
+        "quantity": 100
+      },
+      {
+        "ingredient_id": "blueberries",
+        "quantity": 20
+      },
+      {
+        "ingredient_id": "sugar",
+        "quantity": 30
+      }
+    ],
+    "name": "Blueberry Muffin",
+    "price": 2,
+    "product_id": "muffin"
+  },
+  {
+    "description": "Strong and bold coffee",
+    "ingredients": [
+      {
+        "ingredient_id": "espresso_shot",
+        "quantity": 10
+      }
+    ],
+    "name": "Espresso",
+    "price": 2.5,
+    "product_id": "espresso"
+  },
+  {
+    "description": "Freshly baked muffin with blueberries",
+    "ingredients": [
+      {
+        "ingredient_id": "flour",
+        "quantity": 10
+      },
+      {
+        "ingredient_id": "blueberries",
+        "quantity": 10
+      },
+      {
+        "ingredient_id": "sugar",
+        "quantity": 10
+      }
+    ],
+    "name": "Blueberry Muffin",
+    "price": 2,
+    "product_id": "shit"
+  }
+]
